@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Peter Junior Mendy",
   "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "npm",
+    "tutorial"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
